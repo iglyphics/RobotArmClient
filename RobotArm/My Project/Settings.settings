@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ElbowKp" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">2.5</Value>
+    </Setting>
+    <Setting Name="ElbowKi" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0.9859</Value>
+    </Setting>
+    <Setting Name="ElbowKd" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">1.759259</Value>
+    </Setting>
+    <Setting Name="ElbowMaxPower" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">35</Value>
+    </Setting>
+    <Setting Name="ShoulderKp" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">1.48394</Value>
+    </Setting>
+    <Setting Name="ShoulderKi" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0.497998</Value>
+    </Setting>
+    <Setting Name="ShoulderKd" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">1.016016</Value>
+    </Setting>
+    <Setting Name="ShoulderMaxPower" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">35</Value>
+    </Setting>
+    <Setting Name="WristAngleOffset" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">-18.56857</Value>
+    </Setting>
+    <Setting Name="WristAngleFactor" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0.8168168</Value>
+    </Setting>
+    <Setting Name="BaseDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">images</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
